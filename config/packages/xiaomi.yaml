@@ -1,0 +1,6 @@
+fan:
+  - platform: xiaomi_miio
+    host: 192.168.10.246
+    token: 89f05b24e9608434854b55f7130d6cb6
+    name: 小米空气净化器MAX
+    model: zhimi.airpurifier.sa2

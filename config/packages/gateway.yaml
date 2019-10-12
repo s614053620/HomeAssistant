@@ -1,0 +1,10 @@
+xiaomi_aqara:
+  gateways:
+    - mac: 04CF8CF42AF3
+      key: 13e80e06cout01a0
+      host: 192.168.10.252
+      
+tuya:
+  username: 17610282878
+  password: szw950817
+  country_code: 86

@@ -1,0 +1,8 @@
+
+sunkey_ipad:
+  hide_if_away: false
+  icon:
+  mac:
+  name: “Sunkey”的 iPad
+  picture:
+  track: true

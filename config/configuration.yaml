@@ -1,0 +1,45 @@
+homeassistant:
+  latitude: 39.895155
+  longitude: 116.574184
+  elevation: 90
+  unit_system: metric
+#  time_zone: Asia/Shanghai
+  name: HomeAssistant
+  customize: !include customize.yaml
+  customize_domain: !include customize_domain.yaml
+  packages: !include_dir_named packages
+# 谷歌TextToSpeech
+tts:
+  - platform: google_translate
+# 配件组
+group: !include groups.yaml
+# 自动化
+automation: !include automations.yaml
+# 脚本
+script: !include scripts.yaml
+# HTTP API配置
+http:
+  api_password: !secret http_password
+
+# 零配置
+zeroconf:
+# 开启前端
+frontend:
+# 谷歌地图
+map:
+# 开启配置
+config:
+# 应用默认配置
+default_config:
+# 自动发现
+discovery:
+# 开启个人
+person:
+# HomeKit
+homekit:
+# 日志级别
+logger:
+  default: warn
+  logs:
+    custom_components.xiaomi_miio_airconditioningcompanion.climate: debug
+    miio: debug
