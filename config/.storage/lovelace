@@ -1,0 +1,89 @@
+{
+    "data": {
+        "config": {
+            "title": "HomeAssistant",
+            "views": [
+                {
+                    "badges": [
+                        "binary_sensor.updater",
+                        "binary_sensor.door_window_sensor_158d00035b30e7",
+                        "binary_sensor.motion_sensor_158d00039535d9",
+                        "binary_sensor.switch_158d0003950537",
+                        "person.sunkey",
+                        "sensor.illumination_04cf8cf42af3",
+                        "sun.sun"
+                    ],
+                    "cards": [
+                        {
+                            "entities": [
+                                {
+                                    "entity": "climate.aqara_air_conditioning_companion"
+                                },
+                                {
+                                    "entity": "fan.xiao_mi_kong_qi_jing_hua_qi_max"
+                                }
+                            ],
+                            "title": "\u98ce\u6247",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "light.gateway_light_04cf8cf42af3"
+                            ],
+                            "title": "\u706f\u5149",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "switch.door_switch"
+                                },
+                                {
+                                    "entity": "switch.plug_158d00039ee1c8"
+                                },
+                                {
+                                    "entity": "switch.57781823c44f3399e4e4"
+                                },
+                                {
+                                    "entity": "switch.usb_switch"
+                                }
+                            ],
+                            "title": "\u5f00\u5173",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "weather.jia",
+                            "type": "weather-forecast"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "device_tracker.sunkey_ipad"
+                                },
+                                {
+                                    "entity": "sensor.sunkey_de_ipad_battery_level"
+                                },
+                                {
+                                    "entity": "sensor.sunkey_de_ipad_battery_state"
+                                },
+                                {
+                                    "entity": "sensor.wy_dexiao_hou_zi_battery_level"
+                                },
+                                {
+                                    "entity": "sensor.wy_dexiao_hou_zi_battery_state"
+                                }
+                            ],
+                            "theme": "Backend-selected",
+                            "title": "\u79fb\u52a8\u8bbe\u5907",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}

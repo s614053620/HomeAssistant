@@ -1,0 +1,296 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "legacy_api_password",
+                "data": {},
+                "id": "1160d3267c0a4a00abc652a4b871f83e",
+                "user_id": "6859a9480b89404bbe5a8ef328912e1d"
+            },
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "sunkey"
+                },
+                "id": "543de7d5da8c4ce0812d56208ad3be06",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://tmall.hass.app:8888",
+                "client_name": null,
+                "created_at": "2019-09-01T14:37:22.308906+00:00",
+                "id": "cf824e0809bd43a6a07ed5cf44943fea",
+                "jwt_key": "93ed3f23b39f69df91722b23c83f4833dd9dc27d099ef8039443404e3a338990f58a544d7407dba4be2c597cd2d639165b74295554e49e8df19ea60e75d1b792",
+                "last_used_at": "2019-09-01T14:37:22.309111+00:00",
+                "last_used_ip": "36.111.149.179",
+                "token": "71b92ea62d384929b8a1c6bb494158ae855eadb9ed2d8fc7e71e7a91ac08c9ac3e2276f04fc47daca9616c55072bde2a919ef39578bd3857bd92d26e2374bb62",
+                "token_type": "normal",
+                "user_id": "6859a9480b89404bbe5a8ef328912e1d"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.190:8123/",
+                "client_name": null,
+                "created_at": "2019-09-01T11:10:04.898421+00:00",
+                "id": "a12118df6ab24664abdc499517064082",
+                "jwt_key": "31cf5f82c9152db2e1876fc9f12db58b0355989a888001d798bb8d6af30cee7b5ad6c8ba2fb742da04e3f4122884849e2c635e5de049b0138d801ae3ce44db97",
+                "last_used_at": "2019-10-11T15:09:10.966859+00:00",
+                "last_used_ip": "192.168.10.100",
+                "token": "871c1874a9595e1367f2a4ed9ccb90687816c3ea09d3b3ff969ff0441324255eecb08c5aa4228b3f8cbeae650a637227148bffb6630eb3571caa9be34637c16e",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.190:8123/",
+                "client_name": null,
+                "created_at": "2019-09-01T14:38:07.664363+00:00",
+                "id": "d9cff1c5fa1348b9adbb11efda7cdec2",
+                "jwt_key": "427f7bd094eb55d6acececf468ee1f9a91b7188ae67ec06d5ff41574465cdb1d4de6249078cfb49994af3f19540ae5c71531d2bdcd99dde7007ea318f0f2fb3d",
+                "last_used_at": "2019-09-01T15:31:05.270142+00:00",
+                "last_used_ip": "192.168.10.193",
+                "token": "ec3000ab91dbe9b3fd3e11024adab40287a94401c708192ec0be94a647535bb30e897d3b02489824863a73128e17649b5d16d9c726f1d5e407e9c6da571a76e9",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.190:8123/",
+                "client_name": null,
+                "created_at": "2019-09-01T14:40:14.496956+00:00",
+                "id": "25a3deaf89c843e4a74ba6866cf165b5",
+                "jwt_key": "bc58c3d6541faacd48fd22534bb6cd3f1962c01b6f9be8534847f99e7dcc24b986cd2cea4f0656533944cd396ec109f70f6a42adba42a1210585b0a4757c383b",
+                "last_used_at": "2019-09-07T04:28:12.950656+00:00",
+                "last_used_ip": "192.168.10.128",
+                "token": "fc6414d8b9d1f62f98ceac5b343669866406b1a979c0d41995e0fbd18c4407d5aaedb01e10f2f3c1284c89a7112d3109249040645ed8f43485927d2e98f1a4f7",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 315360000.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": "tmall",
+                "created_at": "2019-09-01T14:44:13.629105+00:00",
+                "id": "c7573977ccc946748b05640f8b73da93",
+                "jwt_key": "152aeca6e84d232cdc76d9561d08ce1cea43bd35d67582fea4253df74410f12f36c22f269c3607dd713efa12e655691de0129fe6c5f7fb6a38f0b4b392a122d8",
+                "last_used_at": "2019-09-01T14:44:13.629183+00:00",
+                "last_used_ip": null,
+                "token": "ce910011aba4db7bc371d52bcff5ae43973e6828dc57f80fb23b56a15d1482e5e24286c06e4e019c89a2061a4c16a947c92a3f23ca4f17e5dfb0b135d2976e93",
+                "token_type": "long_lived_access_token",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://home-assistant.io/iOS",
+                "client_name": null,
+                "created_at": "2019-09-02T02:28:01.106965+00:00",
+                "id": "c9c798b7f93e44789ec4caeee0637732",
+                "jwt_key": "9efd44c1b8dd4a32bb15fad84b75b3324d3a6355fd9cf479833ebf8b583133d75372302ae863b3543a09d8240e278c85e6f8fd2ce25b4730d19b78d312d3e761",
+                "last_used_at": "2019-09-15T09:11:02.387708+00:00",
+                "last_used_ip": "14.28.50.68",
+                "token": "c7c72f57702fdb9e29694b1d0cafcb53349222190cb5ddc85f674035137cab7ea3653621042ecdd389c71690831315581d1a67fc6382295a331e0526eab7dd0b",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://home-assistant.io/iOS",
+                "client_name": null,
+                "created_at": "2019-09-02T02:28:53.879960+00:00",
+                "id": "50169c28a0de43ea8d3f3756cd280503",
+                "jwt_key": "0a973ec2f26ded71ff17d1ed82b814a6f91c50d6509596738a7639216d564b599c42cea21a176bfccf209f6c6b0e71c0a92cf061a6ab65b1770b0ffe63bcd226",
+                "last_used_at": "2019-09-03T10:26:12.834442+00:00",
+                "last_used_ip": "118.144.137.107",
+                "token": "23f6ed6b1401d6349addc6a222cc5c29961417a2c415b4454886ce3637736630a3267e5f9b8bc07ef845573b0cec4c0b44079614a389f50769df1e31199fc3b0",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-09-02T02:31:48.809584+00:00",
+                "id": "a8d16c8636c74104a620b491cdd5df47",
+                "jwt_key": "5a4a1f8024655cabdd57bd5e3c81a64f77d475f9ce53841c939a19eebd6bc3320d01859745143d5adc24b1d7057ba9414e352e9b498dc4b268b7f9ada6524818",
+                "last_used_at": "2019-09-05T03:48:09.499409+00:00",
+                "last_used_ip": "118.144.137.107",
+                "token": "7bc711a4efe4a2f7ce4bbd949f5ca0c2cac73c271af555ab337f71e85b0e5b0cd9379dc4fefc842373b6d6aae4b5100c72aa8f4b53f3d8fb433d4083d548998a",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.10.190:8123/",
+                "client_name": null,
+                "created_at": "2019-09-03T00:51:14.275607+00:00",
+                "id": "1301636c9392436f8553243f45ef4ce9",
+                "jwt_key": "f45f34030f2223a77bb44bb561967c718787ea8fb2a10382838b6d9705f7dd12c0b068ee5e81d35537c4a8baba5cdc6efe52cb5d33dc0791311a6c86aa203fb9",
+                "last_used_at": "2019-09-03T00:51:14.275676+00:00",
+                "last_used_ip": "192.168.10.193",
+                "token": "6833e2118e5c40cda845fcf8b4ec84d137367b1f7ca2fb3fbce40212998f5b8f446a105b600f195a1d3cc5f39fd4e52d35f41e21a2ae69c060fbacca7849ddb0",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-09-03T01:40:59.327104+00:00",
+                "id": "361938233b5c43c394c69e1663e2d52e",
+                "jwt_key": "22b34fc671000a3f8ecc9853c0c57c30fc60e67d45bae8e1e7f90e96b5df795c9699599f6d920c110badb9beb9faaa636360788fb1f0adf91dfaefacd86724d9",
+                "last_used_at": "2019-10-09T23:57:02.455961+00:00",
+                "last_used_ip": "123.151.77.73",
+                "token": "5bc2f8f94cac880a1835f077172484d530aab1cb6f2b01145aad0bd26df6ee6446ae9ca335d799530eb63900bcf2f88f76224235148391f2c77360a5870b7f59",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://home-assistant.io/iOS",
+                "client_name": null,
+                "created_at": "2019-09-03T11:54:00.731877+00:00",
+                "id": "33fb97a72b014194a5c73a55067507a2",
+                "jwt_key": "303b2cf5a9525b4f4cb943a03da30525edc3d9a8e9603285652140e6dedcb02a388061a96a25e52c3a5b16d5657b6e9508a5d785452e70fd718ff2bb2e1cd17c",
+                "last_used_at": "2019-10-12T06:36:45.535273+00:00",
+                "last_used_ip": "111.202.223.217",
+                "token": "4466a364518b9ccfdf6dfe689bccbc297a56773ccda796e09164b6f7a13c2eb6b608e71ccc1045d957cf9a1995a0f6e524132a790f9323fa72a5be64af804708",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-09-05T08:18:09.232440+00:00",
+                "id": "594de86b79244585b76dd0a02586ba7c",
+                "jwt_key": "f28078679981dde92a5bc502d524035635e3b73249efebe720f629d779df1d6c34ae321018adc6378bc88adf560e6c0834044573cb65cdcf81dd27c1de68ab48",
+                "last_used_at": "2019-09-05T08:18:09.232511+00:00",
+                "last_used_ip": "118.144.137.107",
+                "token": "bdab71edb7cb95b3bfe164ca668bf504c3e7ab9a11bb015380bb66d381d4d610d809e02faa79109dde9b0587839bf3e6b1caf7d4c9e4e3becdda416bbbca5c49",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-09-08T13:09:24.347617+00:00",
+                "id": "e47da0419dfc449eb5cfbc1168a6321c",
+                "jwt_key": "79ef04d7e9450bd8940f3f29fb0acc6a013f818d5a73604049566c3de03108311a74d8ed0250c40fb9a675f3816bc677362690de6f89305c855cc8d4cbdfdb00",
+                "last_used_at": "2019-10-07T23:48:39.258914+00:00",
+                "last_used_ip": "124.64.19.1",
+                "token": "c16f036a1aa3bc854685a98ddc4c7f1ccbf9aa33ffc16ea30f2448813c26b916a27dc05f6d8ce523c2e98965322c6a89efbe80093db2a782d96643a9c549d702",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-09-14T12:08:07.461252+00:00",
+                "id": "c36788f337be40c2b8c6977f98e7be3e",
+                "jwt_key": "95fc66d23ddfab5ed05586007ca6b5046b5666dcbac7ceb7c6f0304afbd98bb0ab2880f85ce75b4bb3e38a2069ebc0f9b3d5640c61e1450f16e5dfa0fb4af763",
+                "last_used_at": "2019-09-14T12:08:07.461326+00:00",
+                "last_used_ip": "125.46.242.197",
+                "token": "5e9de23861e71f897244d80d08dd513e06e538b808e2edd8cd87f72d4c15138b1f0a97104ca3f610ea2381e5f36b365a752bb7b10e31e573592b81a60fd13363",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-09-19T02:09:52.578098+00:00",
+                "id": "e3c3a5cf2ad4489a93cca034e258e26b",
+                "jwt_key": "8c1d45a7bf4a924d10844d8699d03ca130a96ec1620f291a186837bf9152e5283ddc670e6d7c92566c669767f707e9a164f3fc5e0706b80adfcc789ef98d7326",
+                "last_used_at": "2019-09-19T02:09:52.578165+00:00",
+                "last_used_ip": "118.144.137.107",
+                "token": "0bc99e4120b7fbefe4eaf802c0df15013341bb07fad57896b81050ab5cdf24ddb2c8ceee4a9503ef1ad1df777fd8cdd47a1fd6994c60a98bc15ac5a53a5ea71a",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://home.sunkey.wang:8123/",
+                "client_name": null,
+                "created_at": "2019-10-10T00:01:33.101618+00:00",
+                "id": "715928d28375464ab27517e8bad29ae6",
+                "jwt_key": "4071d2354294520beb1d9bbf8a8d8cec98358c10911d1a6d5e1470773c1a3487307eca0ed50609c4e5dd10a8f652241e7bd6e133f31d79d9c02f9d374db8fbfb",
+                "last_used_at": "2019-10-12T03:43:27.491464+00:00",
+                "last_used_ip": "106.121.67.16",
+                "token": "19c337d81abe91f43b94158f4e103d76dfe94ae760cdd6b422268335ed66442f5b3d78bc3768cdaeaf74afb907d677be87f83c2dbefd6cff7fdccc03dd826c61",
+                "token_type": "normal",
+                "user_id": "9f643bdc3cc848f79073ee61b1087ef2"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "16385fb00d09456bad3d455c58bf4e3f",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Home Assistant Cloud",
+                "system_generated": true
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "6859a9480b89404bbe5a8ef328912e1d",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Legacy API password user",
+                "system_generated": false
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "9f643bdc3cc848f79073ee61b1087ef2",
+                "is_active": true,
+                "is_owner": false,
+                "name": "sunkey",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": null,
+                "config_entries": [
+                    "97eb77f0da824a53822658f0f8a64763"
+                ],
+                "connections": [],
+                "id": "3c55d86f16c94b0f8b2d4378e2c9b69b",
+                "identifiers": [
+                    [
+                        "ios",
+                        "65C4797E-57A1-4FC7-B677-176402676EE4"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPad Pro (9.7-inch)",
+                "name": "\u201cSunkey\u201d\u7684 iPad",
+                "name_by_user": null,
+                "sw_version": "13.1",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "97eb77f0da824a53822658f0f8a64763"
+                ],
+                "connections": [],
+                "id": "f5a7dec05d3840a09115b5a7177b0ab9",
+                "identifiers": [
+                    [
+                        "ios",
+                        "019244C9-E7D6-42B2-AABB-0B9967707FDE"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone X",
+                "name": "wy de\u5c0f\u7334\u5b50\ud83d\ude0b",
+                "name_by_user": null,
+                "sw_version": "12.4.1",
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

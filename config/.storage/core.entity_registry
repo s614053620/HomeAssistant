@@ -1,0 +1,143 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "name": null,
+                "platform": "updater",
+                "unique_id": "updater"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.sunkey",
+                "name": null,
+                "platform": "person",
+                "unique_id": "fa4be9e51b14404489d9718a9cbb4492"
+            },
+            {
+                "config_entry_id": "95bd5081b8a64067ba45090530726f08",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.jia",
+                "name": "\u5929\u6c14",
+                "platform": "met",
+                "unique_id": "home"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.motion_sensor_158d00039535d9",
+                "name": "\u4eba\u4f53\u611f\u5e94\u5668",
+                "platform": "xiaomi_aqara",
+                "unique_id": "status158d00039535d9"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.door_window_sensor_158d00035b30e7",
+                "name": "\u95e8\u7a97\u611f\u5e94\u5668",
+                "platform": "xiaomi_aqara",
+                "unique_id": "status158d00035b30e7"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.switch_158d0003950537",
+                "name": "\u5e8a\u5934\u5f00\u5173",
+                "platform": "xiaomi_aqara",
+                "unique_id": "status158d0003950537"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.plug_158d00039ee1c8",
+                "name": "\u98ce\u6247\u5f00\u5173",
+                "platform": "xiaomi_aqara",
+                "unique_id": "status158d00039ee1c8"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.illumination_04cf8cf42af3",
+                "name": "\u4eae\u5ea6\u611f\u5e94\u5668",
+                "platform": "xiaomi_aqara",
+                "unique_id": "illumination04cf8cf42af3"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "light.gateway_light_04cf8cf42af3",
+                "name": "\u5c0f\u591c\u706f",
+                "platform": "xiaomi_aqara",
+                "unique_id": "rgb04cf8cf42af3"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.57781823c44f3399e4e4",
+                "name": "\u7535\u52a8\u8f66\u63d2\u5ea7",
+                "platform": "tuya",
+                "unique_id": "tuya.57781823c44f3399e4e4"
+            },
+            {
+                "config_entry_id": "97eb77f0da824a53822658f0f8a64763",
+                "device_id": "3c55d86f16c94b0f8b2d4378e2c9b69b",
+                "disabled_by": null,
+                "entity_id": "sensor.sunkey_de_ipad_battery_level",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_sunkey_ipad"
+            },
+            {
+                "config_entry_id": "97eb77f0da824a53822658f0f8a64763",
+                "device_id": "3c55d86f16c94b0f8b2d4378e2c9b69b",
+                "disabled_by": null,
+                "entity_id": "sensor.sunkey_de_ipad_battery_state",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_sunkey_ipad"
+            },
+            {
+                "config_entry_id": "97eb77f0da824a53822658f0f8a64763",
+                "device_id": "f5a7dec05d3840a09115b5a7177b0ab9",
+                "disabled_by": null,
+                "entity_id": "sensor.wy_dexiao_hou_zi_battery_state",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_YingIPhone "
+            },
+            {
+                "config_entry_id": "97eb77f0da824a53822658f0f8a64763",
+                "device_id": "f5a7dec05d3840a09115b5a7177b0ab9",
+                "disabled_by": null,
+                "entity_id": "sensor.wy_dexiao_hou_zi_battery_level",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_YingIPhone "
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "climate.aqara_air_conditioning_companion",
+                "name": "\u7a7a\u8c03",
+                "platform": "xiaomi_miio_airconditioningcompanion",
+                "unique_id": "lumi.acpartner.mcn02-04:CF:8C:23:07:F8"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

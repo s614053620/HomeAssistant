@@ -1,0 +1,12 @@
+{
+    "data": {
+        "users": [
+            {
+                "password": "JDJiJDEyJDhCVmkwaXhXeDhmV3d5VWVxejhFVHVEL3NzOS9Cb0VvLnNEdnVtL0htQ00xOVouTS9DVFhX",
+                "username": "sunkey"
+            }
+        ]
+    },
+    "key": "auth_provider.homeassistant",
+    "version": 1
+}
